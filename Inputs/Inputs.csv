@@ -1,0 +1,10 @@
+Parameter,Value
+Starting Position,10000
+Risk Free Rate,0.005
+VaR Type,Par GBM
+Mu Sigma Calc Method (Windows/Exp),Windows
+Window Length/Weight,756
+VaR Horizon (Days/252),0.01984127
+VaRp,0.99
+Evaluation Horizon (Years),10
+Number of Simulations (MC),10000
